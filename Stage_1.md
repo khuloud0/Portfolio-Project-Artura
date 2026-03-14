@@ -28,34 +28,32 @@ The creative and real estate industries currently suffer from **"Discovery Fragm
 ### 🌟 Potential Impact
 **Artura** formalizes the art acquisition process, transforming it from a fragmented, manual task into a streamlined digital workflow. This saves corporate firms hundreds of hours in manual sourcing while providing artists with the professional visibility they deserve.
 
-# Artura: Technical Specification & Project Documentation
-
 ## 1. High-Level Architecture
 The **Artura** application is built as a modular web platform, strictly adhering to the **Separation of Concerns (SoC)** principle. This ensures the application is scalable, easy to debug, and aligns with professional software engineering standards.
 
 The architecture is divided into three primary layers:
-* **Presentation Layer:** Pure **HTML5**, **CSS3 (Tailwind)**, and **Vanilla JavaScript**. It handles DOM manipulation and asynchronous API calls (Fetch API).
-* **Business Logic Layer (Application Layer):** Powered by **Python (Flask)**. This layer processes requests, manages user authentication, and coordinates the "Customization Request" workflow.
-* **Persistence Layer (Data Layer):** A **PostgreSQL** relational database that stores users, artworks, and transaction metadata.
+* **Presentation Layer:** Pure **HTML5**, **CSS3 (Tailwind)**, and **Vanilla JavaScript**. It handles DOM manipulation and asynchronous API calls (**Fetch API**).
+* **Business Logic Layer:** Powered by **Python (Flask)**. This layer processes requests, manages user authentication, and coordinates the "Customization Request" workflow.
+* **Persistence Layer:** A **PostgreSQL** relational database that stores users, artworks, and transaction metadata.
 
 ### 1.1 Architecture Diagram
 ```mermaid
 graph TD
-    subgraph "Presentation Layer (Client-Side)"
+    subgraph Client_Side [Presentation Layer]
         UI[HTML5 / Tailwind CSS]
         JS[Vanilla JavaScript / Fetch API]
     end
 
-    subgraph "Business Logic Layer (Server-Side)"
+    subgraph Server_Side [Business Logic Layer]
         Flask[Flask RESTful API]
-        Logic[Business Services & Validation]
+        Logic[Business Services and Validation]
     end
 
-    subgraph "Persistence Layer (Database)"
+    subgraph Data_Layer [Persistence Layer]
         DB[(PostgreSQL)]
     end
 
     UI --- JS
     JS -->|HTTP Requests| Flask
     Flask --- Logic
-    Logic --> DB ```
+    Logic --> DB
