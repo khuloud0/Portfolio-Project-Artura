@@ -52,11 +52,11 @@ To ensure long-term sustainability and scalability, **Artura** follows a strateg
 ## 5. Visual Roadmap & Future Scope
 The following roadmap outlines our strategic phases for **Artura**, moving from a specialized B2B MVP to a global creative ecosystem.
 
-| Phase | Focus Area 
-| :--- | :--- | :---
-| **Phase 1: MVP** | B2B Core (Interior & Real Estate), Product Listing & Customization Logic. 
-| **Phase 2: Expansion** | B2C Launch (Individual Shoppers), Artisan Scaling & Regional Growth. 
-| **Phase 3: Diversification** | Digital Assets (3D Models), Full Ecosystem Integration & Global Reach. 
+| Phase | Focus Area |
+| :--- | :--- | :--- |
+| **Phase 1: MVP** | B2B Core (Interior & Real Estate), Product Listing & Customization Logic. |
+| **Phase 2: Expansion** | B2C Launch (Individual Shoppers), Artisan Scaling & Regional Growth.|
+| **Phase 3: Diversification** | Digital Assets (3D Models), Full Ecosystem Integration & Global Reach.|
 
 ---
 
