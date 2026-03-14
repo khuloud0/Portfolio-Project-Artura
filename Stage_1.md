@@ -28,7 +28,7 @@ The creative and real estate industries currently suffer from **"Discovery Fragm
 ### 🌟 Potential Impact
 **Artura** formalizes the art acquisition process, transforming it from a fragmented, manual task into a streamlined digital workflow. This saves corporate firms hundreds of hours in manual sourcing while providing artists with the professional visibility they deserve.
 
-## 🚀 Project Roadmap
+## 3. 🚀 Project Roadmap
 
 To ensure long-term sustainability and scalability, **Artura** follows a strategic growth plan divided into three main phases:
 
@@ -47,20 +47,16 @@ To ensure long-term sustainability and scalability, **Artura** follows a strateg
 * **Digital Marketplace:** Introducing a section for digital assets (3D Models, Interior Design blueprints, CAD files).
 * **All-in-One Platform:** Transitioning into a comprehensive ecosystem for both physical crafts and digital design resources.
 
----
-
-## 5. Visual Roadmap & Future Scope
-The following roadmap outlines our strategic phases for **Artura**, moving from a specialized B2B MVP to a global creative ecosystem.
-
-| Phase | Focus Area  |
-| :--- | :--- | :---  |
-| **Phase 1: MVP** | B2B Core (Interior & Real Estate), Product Listing & Customization Logic.  |
-| **Phase 2: Expansion** | B2C Launch (Individual Shoppers), Artisan Scaling & Regional Growth. |
-| **Phase 3: Diversification** | Digital Assets (3D Models), Full Ecosystem Integration & Global Reach. |
+### Visual Roadmap & Future Scope
+| Phase | Focus Area |
+| :--- | :--- |
+| **Phase 1: MVP** | B2B Core (Interior & Real Estate), Product Listing & Customization Logic |
+| **Phase 2: Expansion**| B2C Launch (Individual Shoppers), Artisan Scaling & Regional Growth |
+| **Phase 3: Diversification** | Digital Assets (3D Models), Full Ecosystem Integration & Global Reach |
 
 ---
 
-## 3. Team Composition & Initial Roles
+## 4. Team Composition & Initial Roles
 
 ### 👥 The Project Team
 | Member | Role |
