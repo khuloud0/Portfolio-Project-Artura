@@ -28,6 +28,45 @@ The creative and real estate industries currently suffer from **"Discovery Fragm
 ### 🌟 Potential Impact
 **Artura** formalizes the art acquisition process, transforming it from a fragmented, manual task into a streamlined digital workflow. This saves corporate firms hundreds of hours in manual sourcing while providing artists with the professional visibility they deserve.
 
+## 🚀 Project Roadmap
+
+To ensure long-term sustainability and scalability, **Palette Hub** follows a strategic growth plan divided into three main phases:
+
+### Phase 1: Minimum Viable Product (MVP) - [Current Focus]
+* **Target Audience:** B2B focus (Interior Design and Real Estate firms).
+* **Product Scope:** Physical handcrafted artworks (Paintings, Woodwork, etc.).
+* **Primary Objective:** Establish a reliable link between artisans and firms and validate the business model.
+* **Competitive Edge:** Implementing a seamless **Customization Request** and negotiation workflow.
+
+### Phase 2: Horizontal Expansion
+* **B2C Integration:** Opening a specialized section for individual consumers seeking unique home decor.
+* **Supplier Scaling:** Expanding the network of local artisans across broader geographical areas.
+* **Market Validation:** Analyzing performance metrics and user feedback for service optimization.
+
+### Phase 3: Digital Transformation & Diversification
+* **Digital Marketplace:** Introducing a section for digital assets (3D Models, Interior Design blueprints, CAD files).
+* **All-in-One Platform:** Transitioning into a comprehensive ecosystem for both physical crafts and digital design resources.
+
+---
+
+### 🗺️ Visual Roadmap (Mermaid)
+
+```mermaid
+timeline
+    title Palette Hub Strategic Roadmap
+    section Phase 1: MVP (Current)
+        B2B Focus : Interior Design & Real Estate
+        Physical Crafts : Paintings & Woodwork
+        Core Logic : Customization & Negotiation
+    section Phase 2: Expansion
+        B2C Launch : Individual Shoppers
+        Artisan Scaling : Regional Growth
+        Feedback Loop : Market Validation
+    section Phase 3: Diversification
+        Digital Assets : 3D Models & Blueprints
+        Full Ecosystem : All-in-One Design Platform
+
+
 ## 3. Team Composition & Initial Roles
 
 ### 👥 The Project Team
