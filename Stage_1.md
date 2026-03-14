@@ -30,7 +30,7 @@ The creative and real estate industries currently suffer from **"Discovery Fragm
 
 ## 🚀 Project Roadmap
 
-To ensure long-term sustainability and scalability, **Palette Hub** follows a strategic growth plan divided into three main phases:
+To ensure long-term sustainability and scalability, **Artura** follows a strategic growth plan divided into three main phases:
 
 ### Phase 1: Minimum Viable Product (MVP) - [Current Focus]
 * **Target Audience:** B2B focus (Interior Design and Real Estate firms).
@@ -49,26 +49,16 @@ To ensure long-term sustainability and scalability, **Palette Hub** follows a st
 
 ---
 
-### 🗺️ Visual Roadmap
+## 5. Visual Roadmap & Future Scope
+The following roadmap outlines our strategic phases for **Artura**, moving from a specialized B2B MVP to a global creative ecosystem.
 
-```mermaid
-gantt
-    title Palette Hub Project Roadmap
-    dateFormat  YYYY-MM-DD
-    axisFormat  %m-%Y
-    
-    section Phase 1: MVP
-    B2B Focus (Interior & Real Estate) :active, p1, 2026-01-01, 90d
-    Physical Crafts & Negotiation Logic :active, p2, after p1, 60d
-    
-    section Phase 2: Expansion
-    B2C Launch (Individual Shoppers)   :after p2, 90d
-    Artisan Scaling & Regional Growth  :after p2, 120d
-    
-    section Phase 3: Diversification
-    Digital Assets (3D Models)         :2027-01-01, 150d
-    Full Ecosystem Integration         :after p3, 100d
+| Phase | Focus Area | Timeline |
+| :--- | :--- | :--- |
+| **Phase 1: MVP** | B2B Core (Interior & Real Estate), Product Listing & Customization Logic. | Q2 2026 |
+| **Phase 2: Expansion** | B2C Launch (Individual Shoppers), Artisan Scaling & Regional Growth. | Q4 2026 |
+| **Phase 3: Diversification** | Digital Assets (3D Models), Full Ecosystem Integration & Global Reach. | 2027 |
 
+---
 
 ## 3. Team Composition & Initial Roles
 
