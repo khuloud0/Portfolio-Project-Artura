@@ -62,7 +62,7 @@ To ensure long-term sustainability and scalability, **Artura** follows a strateg
 | Member | Role |
 | :--- | :--- |
 | **Khuloud Alqarni** | **Backend Lead** |
-| **Raghad Nassef** | XX |
+| **Raghad Nassef** | **Frontend Lead** |
 | **Layan Aldosari** | **QA Lead** |
 | **Banan Aleid** | **Database Lead** |
 
