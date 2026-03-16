@@ -84,6 +84,7 @@ The team has selected a modern and scalable technical stack to ensure the perfor
 * **Languages:** HTML5, CSS3, JavaScript
 * **Styling:** Tailwind CSS 
 * **Prototyping:** Figma
+* **Libraries** React
 
 ### 🚀 Collaboration & DevOps
 * **IDE:** **Visual Studio Code (VS Code)**
