@@ -186,3 +186,14 @@ A design template belongs to one room type, one style, and one color category. A
 ### 05. ER Diagram
 
 <img src="ERdiagram.png" width="300">
+
+### 06. Design Rationale
+
+This database structure supports the MVP requirement of generating design suggestions based on structured user inputs such as room type, size, style, and color. It also supports the progressive authentication flow by allowing users to explore suggestions first and save selected designs after authentication. These requirements are aligned with the project scope and objectives.
+
+---
+### Generate Design Sequence
+
+This sequence diagram illustrates how the system generates design suggestions based on user input.
+
+<img src="userinput.png" width="300">
