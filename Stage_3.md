@@ -196,4 +196,8 @@ This database structure supports the MVP requirement of generating design sugges
 
 This sequence diagram illustrates how the system generates design suggestions based on user input.
 
-<img src="userinput.png" width="300">
+<img src="userinput.png" width="600">
+
+Save Design - This sequence diagram illustrates how a user saves a design, including the progressive authentication flow.
+
+ <img src="SaveDesign.png" width="600">
