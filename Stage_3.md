@@ -194,7 +194,7 @@ This database structure supports the MVP requirement of generating design sugges
 ---
 ### Generate Design Sequence
 
-This sequence diagram illustrates how the system generates design suggestions based on user input.
+This sequence diagram illustrates how the system generates design suggestions **based on user input**.
 
 <img src="userinput.png" width="600">
 
