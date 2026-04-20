@@ -16,6 +16,7 @@ The following user stories define the key functionalities of the **Interior Desi
 # Mockups / Wireframes
 
 The following wireframes illustrate the main user interface screens of the MVP, **focusing on user flow and functionality** rather than visual design.
+<img src="Home.png" width="200">
 
 # Design System Architecture
 
