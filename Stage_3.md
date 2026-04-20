@@ -21,6 +21,8 @@ The following wireframes illustrate the main user interface screens of the MVP, 
 
 <img src="Abut Us.png" width="150">
 
+<img src="How it wrks page.png" width="150">
+
 # Design System Architecture
 
 ## Overview
