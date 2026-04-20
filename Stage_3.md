@@ -31,6 +31,16 @@ The following wireframes illustrate the main user interface screens of the MVP, 
 
 <img src="results screen.png" width="150">
 
+<img src="Design Details  screen.png" width="150">
+
+<img src="Sign Up screen.png" width="150">
+
+<img src="Sign In screen.png" width="150">
+
+<img src="Design saved successfully screen.png" width="150">
+
+
+
 
 # Design System Architecture
 
