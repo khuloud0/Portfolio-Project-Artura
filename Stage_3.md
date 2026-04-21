@@ -1,17 +1,20 @@
 # User Stories
 
+These user stories are designed for individuals living in small rented spaces, such as students and early professionals, who need ffast, simple, and practical interior design solutions
+
 The following user stories define the key functionalities of the **Interior Design Platform MVP** from the user's perspective. These stories are prioritized using the **MoSCoW** method.
+
 
 | Priority | User Story |
 | :--- | :--- |
-|**Must Have** | As a user, I want to select room type, size, style, and color so that I can receive personalized interior design suggestions instantly. |
-| | As a user, I want to view 2–4 design suggestions based on my inputs so that I can compare and choose the most suitable option. |
-| | As a user, I want to generate design suggestions without logging in so that I can quickly use the platform without barriers. |
-|**Should Have** | As a user, I want the system to match my inputs with relevant design templates so that I receive accurate and useful suggestions. |
-|**Could Have** | As a user, I want to save a design suggestion so that I can revisit it later. |
-|| As a user, I want to be prompted to sign up only when I try to save a design so that I don’t need to create an account before exploring the platform. |
-|**Won’t Have** | As a user, I want the system to generate designs using AI so that I get highly personalized results. |
-|| As a user, I want to view my room design in 3D so that I can better visualize the final outcome. |
+|**Must Have** | As a user, I want to select my room type, size, style, and color so that I can quickly get design ideas that fit my small living space. |
+| | As a user, I want to view 2–4 design suggestions so that I can easily compare and pick what suits me best. |
+| | As a user, I want to generate design suggestions without logging in so that I can explore ideas instantly without commitment. |
+|**Should Have** | As a user, I want the system to match my preferences with suitable templates so that I get relevant and realistic design ideas. |
+|**Could Have** | As a user, I want to save a design so that I can come back to it when I need to decorate my space. |
+|| As a user, I want to be asked to sign up only when saving a design so that I can try the platform freely first. |
+|**Won’t Have** | As a user, I want AI-generated designs so that I get highly personalized results. (Future scope) |
+|| As a user, I want to view designs in 3D so that I can better visualize the space. (Future scope) |
 
 # Mockups / Wireframes
 
