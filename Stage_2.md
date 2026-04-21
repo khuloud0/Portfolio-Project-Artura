@@ -15,19 +15,15 @@ They are the individuals responsible for building and developing the platform, i
 
 
 ### External Stakeholders:
-External stakeholders include the current target users of the platform as well as potential future users as the system scales and evolves.
+External stakeholders primarily include the current target users of the platform. Future user groups are outside the scope of the current MVP.
 
-### 1️⃣ Current Target Users (Homeowners / Renters / Students)
-These are the **primary users** of the platform who require quick, efficient, and simple interior design suggestions tailored to personal living spaces.
-* **Homeowners:** Looking to refresh their permanent living areas with minimal effort.
-* **Renters:** Seeking flexible and non-permanent design ideas for leased spaces.
-* **Students:** Focused on practical, budget-friendly, and functional room setups for study or dorm life.
+### 1️⃣ Current Target Users 
+The primary target users for the MVP are **individuals living in small rented spaces, such as students and early professionals**.
+
+These users need fast, simple, and practical interior design suggestions that help them improve their spaces quickly and easily.
 
 ### 2️⃣ Future Users (Scalability Segment)
-These represent the **potential growth sectors** for future versions of the platform, extending the tool's capabilities to professional and larger-scale environments.
-* **Commercial Space Owners:** Small business owners, café managers, or boutique retailers.
-* **Offices:** Corporate teams looking to optimize workplace ergonomics and aesthetics.
-* **Large-scale Clients:** Interior design clients requiring coordination for expansive or multi-room environments.
+Future versions may expand to additional user groups such as homeowners or commercial users, but these are not included in the current MVP.
 
 ### Team role & Responsibilites:
 | Team Member | Role | Key Responsibilities |
