@@ -1,6 +1,4 @@
-I added the uploaded MVP Development and Execution content and refined it into one complete GitHub-ready `README.md` format. 
 
-````md
 # Interior Design Platform
 
 ## Overview
