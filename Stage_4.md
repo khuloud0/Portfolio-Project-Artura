@@ -494,15 +494,6 @@ No external database hosting provider was used for this version of the project.
 
 The backend requires environment variables to connect to the database and manage authentication securely.
 
-Example environment variables:
-
-```bash
-DATABASE_URL=postgresql://username:password@localhost:5432/database_name
-JWT_SECRET=your_jwt_secret
-PORT=5000
-FRONTEND_URL=http://localhost:5173
-```
-
 Real secret values should not be committed to GitHub. They should be stored in a local `.env` file and excluded using `.gitignore`.
 
 ---
@@ -522,5 +513,3 @@ The application was developed and tested locally using Flask, React, PostgreSQL,
 
 The MVP focused on enabling homeowners to submit design requests, designers to create execution plans, providers to submit offers, and homeowners to select providers and track project progress.
 ````
-
-
